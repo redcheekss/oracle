@@ -50,8 +50,8 @@
     <schema id="15" parent="1" name="LCOA">
       <ObjectId>148</ObjectId>
       <CreatedTimestamp>2020-03-30.23:42:36</CreatedTimestamp>
-      <ModifiedTimestamp>2020-05-27.22:11:17</ModifiedTimestamp>
-      <IntrospectionTimestamp>2020-05-27.22:39:50</IntrospectionTimestamp>
+      <ModifiedTimestamp>2020-05-27.23:24:33</ModifiedTimestamp>
+      <IntrospectionTimestamp>2020-05-27.23:24:56</IntrospectionTimestamp>
       <CommentsHash>41997734229354</CommentsHash>
       <Current>1</Current>
     </schema>
@@ -1086,10 +1086,9 @@
     </package>
     <package id="188" parent="15" name="PKG_INS_PROMOTION_INFO">
       <ObjectId>187652</ObjectId>
-      <SourceTextLength>1655</SourceTextLength>
-      <WithDebugInfo>1</WithDebugInfo>
+      <SourceTextLength>1693</SourceTextLength>
       <CreatedTimestamp>2020-05-26.22:42:43</CreatedTimestamp>
-      <ModifiedTimestamp>2020-05-27.19:32:44</ModifiedTimestamp>
+      <ModifiedTimestamp>2020-05-27.23:24:33</ModifiedTimestamp>
     </package>
     <package id="189" parent="15" name="PKG_INS_SDE_SCHEDULE">
       <ObjectId>184813</ObjectId>
@@ -8927,6 +8926,7 @@ C_USER_ID</ColNames>
     <body id="1707" parent="188" name="PKG_INS_PROMOTION_INFO">
       <ObjectId>187651</ObjectId>
       <SourceTextLength>12912</SourceTextLength>
+      <Invalid>1</Invalid>
       <WithDebugInfo>1</WithDebugInfo>
       <DependsOnIds>-9223372036854775808,175030,175032,175034,176953,178971,180172,180176,180443,182284</DependsOnIds>
       <CreatedTimestamp>2020-05-26.22:39:50</CreatedTimestamp>

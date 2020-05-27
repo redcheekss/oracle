@@ -20,14 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ad670b-2d99-4536-9251-27b88511c36a" name="Default Changelist" comment="ceshi">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/oracle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f73528c0-4ec5-4307-95be-8f9baaa1662f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f73528c0-4ec5-4307-95be-8f9baaa1662f.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f73528c0-4ec5-4307-95be-8f9baaa1662f/storage_v2/_src_/schema/LCOA.iZEjAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f73528c0-4ec5-4307-95be-8f9baaa1662f/storage_v2/_src_/schema/LCOA.iZEjAA.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f73528c0-4ec5-4307-95be-8f9baaa1662f/storage_v2/_src_/schema/LCOA.iZEjAA.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f73528c0-4ec5-4307-95be-8f9baaa1662f/storage_v2/_src_/schema/LCOA.iZEjAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f73528c0-4ec5-4307-95be-8f9baaa1662f/storage_v2/_staging_/schema/LCOA.iZEjAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f73528c0-4ec5-4307-95be-8f9baaa1662f/storage_v2/_staging_/schema/LCOA.iZEjAA/package/PKG_INS_PROMOTION_INFO.7tiDEA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f73528c0-4ec5-4307-95be-8f9baaa1662f/storage_v2/_staging_/schema/LCOA.iZEjAA/package/PKG_INS_PROMOTION_INFO.7tiDEA.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,14 +147,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590562392184" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1590547582965">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1590563778313">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1590547582965" />
-    <state x="123" y="0" key="com.intellij.database.view.ui.DatabasePreviewDialog" timestamp="1590549031572">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1590563778313" />
+    <state x="123" y="0" key="com.intellij.database.view.ui.DatabasePreviewDialog" timestamp="1590564170774">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="123" y="0" key="com.intellij.database.view.ui.DatabasePreviewDialog/0.0.1366.728@0.0.1366.728" timestamp="1590549031572" />
+    <state x="123" y="0" key="com.intellij.database.view.ui.DatabasePreviewDialog/0.0.1366.728@0.0.1366.728" timestamp="1590564170774" />
     <state x="476" y="20" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1590563222084">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
