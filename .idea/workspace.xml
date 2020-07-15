@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19ad670b-2d99-4536-9251-27b88511c36a" name="Default Changelist" comment="ceshi" />
+    <list default="true" id="19ad670b-2d99-4536-9251-27b88511c36a" name="Default Changelist" comment="ceshi">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,10 +89,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="121" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1594116474675" />
-    <state x="79" y="321" width="1182" height="544" key="DiffContextDialog" timestamp="1594799968012">
+    <state x="70" y="77" width="1182" height="544" key="DiffContextDialog" timestamp="1594800143501">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="79" y="321" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1594799968012" />
+    <state x="70" y="77" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1594800143501" />
     <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1592907182622">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -151,10 +153,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594793053245" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1594799883486">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1594800060338">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1594799883486" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1594800060338" />
     <state x="369" y="0" width="659" height="583" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1592381285894">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
