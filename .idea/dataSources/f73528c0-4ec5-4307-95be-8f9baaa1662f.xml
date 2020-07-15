@@ -10768,7 +10768,7 @@ C_USER_ID</ColNames>
       <SourceTextLength>19773</SourceTextLength>
       <DependsOnIds>-9223372036854775808,97787,97874,97876,97881,97967,152022,175029,175034,176953,178733,181437,181441,183650,184938,188822,189825</DependsOnIds>
       <CreatedTimestamp>2020-05-06.18:31:43</CreatedTimestamp>
-      <ModifiedTimestamp>2020-07-15.00:00:00</ModifiedTimestamp>
+      <ModifiedTimestamp>2020-07-15</ModifiedTimestamp>
     </body>
     <routine id="2017" parent="203" name="OAUSERINFOSYNC">
       <RoutineKind>function</RoutineKind>
