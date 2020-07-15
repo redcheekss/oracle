@@ -8,5 +8,19 @@
       <jdbc-driver>oracle.jdbc.driver.OracleDriver</jdbc-driver>
       <jdbc-url>jdbc:oracle:thin:@192.168.1.2:1521:orcl</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="@onVPN" uuid="10bb7e59-dff2-4b03-ad4b-e1f3b240fb1c">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.driver.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@10.44.21.247:1521:BLOCKORA</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="@192.168.1.33" uuid="ef9b6974-700f-4bf3-bf7d-b3162ef7b937">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.driver.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@192.168.1.33:1521:helowin</jdbc-url>
+    </data-source>
   </component>
 </project>

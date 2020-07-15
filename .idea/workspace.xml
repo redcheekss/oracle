@@ -19,7 +19,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19ad670b-2d99-4536-9251-27b88511c36a" name="Default Changelist" comment="ceshi" />
+    <list default="true" id="19ad670b-2d99-4536-9251-27b88511c36a" name="Default Changelist" comment="ceshi">
+      <change afterPath="$PROJECT_DIR$/sql.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f73528c0-4ec5-4307-95be-8f9baaa1662f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f73528c0-4ec5-4307-95be-8f9baaa1662f.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f73528c0-4ec5-4307-95be-8f9baaa1662f/storage_v2/_src_/schema/LCBASE.yHR_hQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f73528c0-4ec5-4307-95be-8f9baaa1662f/storage_v2/_src_/schema/LCBASE.yHR_hQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f73528c0-4ec5-4307-95be-8f9baaa1662f/storage_v2/_src_/schema/LCBASE.yHR_hQ.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f73528c0-4ec5-4307-95be-8f9baaa1662f/storage_v2/_src_/schema/LCBASE.yHR_hQ.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f73528c0-4ec5-4307-95be-8f9baaa1662f/storage_v2/_src_/schema/LCOA.iZEjAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f73528c0-4ec5-4307-95be-8f9baaa1662f/storage_v2/_src_/schema/LCOA.iZEjAA.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f73528c0-4ec5-4307-95be-8f9baaa1662f/storage_v2/_src_/schema/LCOA.iZEjAA.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f73528c0-4ec5-4307-95be-8f9baaa1662f/storage_v2/_src_/schema/LCOA.iZEjAA.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f73528c0-4ec5-4307-95be-8f9baaa1662f/storage_v2/_staging_/schema/LCOA.iZEjAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f73528c0-4ec5-4307-95be-8f9baaa1662f/storage_v2/_staging_/schema/LCOA.iZEjAA/package/PKG_INS_PROMOTION_INFO.7tiDEA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f73528c0-4ec5-4307-95be-8f9baaa1662f/storage_v2/_staging_/schema/LCOA.iZEjAA/package/PKG_INS_PROMOTION_INFO.7tiDEA.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +56,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
   </component>
   <component name="RunManager">
     <configuration name="PKG_INS_PROMOTION_INFO.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
@@ -67,6 +80,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -74,38 +88,42 @@
     <option name="LAST_COMMIT_MESSAGE" value="ceshi" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="379" y="10" key="#PKG_INS_PROMOTION_INFO.sql" timestamp="1590563588389">
+    <state x="379" y="10" key="#PKG_INS_PROMOTION_INFO.sql" timestamp="1591003824435">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="10" key="#PKG_INS_PROMOTION_INFO.sql/0.0.1366.728@0.0.1366.728" timestamp="1590563588389" />
-    <state x="246" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590563504045">
+    <state x="379" y="10" key="#PKG_INS_PROMOTION_INFO.sql/0.0.1366.728@0.0.1366.728" timestamp="1591003824435" />
+    <state x="129" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592880211091">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="246" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590563504045" />
+    <state x="129" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1592880211091" />
+    <state x="379" y="121" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594116474675">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="121" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1594116474675" />
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1590564550157">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1590564550157" />
-    <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1590563443505">
+    <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1592907182622">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590563443505" />
-    <state width="442" height="212" key="GridCell.Tab.0.bottom" timestamp="1590562648113">
+    <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592907182622" />
+    <state width="1140" height="214" key="GridCell.Tab.0.bottom" timestamp="1594116398341">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="442" height="212" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590562648113" />
-    <state width="442" height="212" key="GridCell.Tab.0.center" timestamp="1590562648112">
+    <state width="1140" height="214" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594116398341" />
+    <state width="1140" height="214" key="GridCell.Tab.0.center" timestamp="1594116398340">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="442" height="212" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590562648112" />
-    <state width="442" height="212" key="GridCell.Tab.0.left" timestamp="1590562648112">
+    <state width="1140" height="214" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594116398340" />
+    <state width="1140" height="214" key="GridCell.Tab.0.left" timestamp="1594116398339">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="442" height="212" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590562648112" />
-    <state width="442" height="212" key="GridCell.Tab.0.right" timestamp="1590562648113">
+    <state width="1140" height="214" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594116398339" />
+    <state width="1140" height="214" key="GridCell.Tab.0.right" timestamp="1594116398340">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="442" height="212" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590562648113" />
+    <state width="1140" height="214" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594116398340" />
     <state width="413" height="334" key="GridCell.Tab.1.bottom" timestamp="1590489843426">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -138,25 +156,37 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="413" height="334" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1590489843406" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1590562392184">
+    <state x="184" y="0" key="SettingsEditor" timestamp="1590567134045">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590562392184" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590567134045" />
     <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1590564507042">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1590564507042" />
-    <state x="123" y="0" key="com.intellij.database.view.ui.DatabasePreviewDialog" timestamp="1590564170774">
+    <state x="369" y="0" width="659" height="583" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1592381285894">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="123" y="0" key="com.intellij.database.view.ui.DatabasePreviewDialog/0.0.1366.728@0.0.1366.728" timestamp="1590564170774" />
-    <state x="476" y="20" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1590563222084">
+    <state x="369" y="0" width="659" height="583" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1592381285894" />
+    <state x="325" y="31" key="com.intellij.database.view.ui.DatabasePreviewDialog" timestamp="1591003926473">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="476" y="20" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1590563222084" />
+    <state x="325" y="31" key="com.intellij.database.view.ui.DatabasePreviewDialog/0.0.1366.728@0.0.1366.728" timestamp="1591003926473" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1590651442883">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1590651442883" />
+    <state x="476" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591861772652">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="476" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1591861772652" />
     <state x="346" y="0" width="429" height="372" key="dock-window-1" timestamp="1590490021382">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="346" y="0" width="429" height="372" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1590490021382" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1592380797758">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1592380797758" />
   </component>
 </project>
