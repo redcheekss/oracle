@@ -89,10 +89,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="121" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1594116474675" />
-    <state x="-8" y="-8" width="1182" height="544" maximized="true" key="DiffContextDialog" timestamp="1594810063505">
+    <state x="-8" y="-8" width="1182" height="544" maximized="true" key="DiffContextDialog" timestamp="1594867208372">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="-8" y="-8" width="1182" height="544" maximized="true" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1594810063505" />
+    <state x="-8" y="-8" width="1182" height="544" maximized="true" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1594867208372" />
     <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1592907182622">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -153,10 +153,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594800278626" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1594800164759">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1594866931113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1594800164759" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1594866931113" />
     <state x="369" y="0" width="659" height="583" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1592381285894">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -169,14 +169,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="140" y="68" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1366.728@0.0.1366.728" timestamp="1594800290316" />
-    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1594799605159">
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1594867208373">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1594799605159" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1594867208373" />
     <state x="476" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591861772652">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="476" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1591861772652" />
+    <state x="477" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594868316038">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="477" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1594868316038" />
     <state x="346" y="0" width="429" height="372" key="dock-window-1" timestamp="1590490021382">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
