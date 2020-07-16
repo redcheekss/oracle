@@ -45,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="database.main2" />
   </component>
   <component name="RunManager">
     <configuration name="PKG_INS_PROMOTION_INFO.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
@@ -89,30 +89,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="121" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1594116474675" />
-    <state x="70" y="77" width="1182" height="544" key="DiffContextDialog" timestamp="1594800143501">
+    <state x="-8" y="-8" width="1182" height="544" maximized="true" key="DiffContextDialog" timestamp="1594810063505">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="70" y="77" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1594800143501" />
+    <state x="-8" y="-8" width="1182" height="544" maximized="true" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1594810063505" />
     <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1592907182622">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592907182622" />
-    <state width="1140" height="109" key="GridCell.Tab.0.bottom" timestamp="1594799682646">
+    <state width="1140" height="292" key="GridCell.Tab.0.bottom" timestamp="1594800182226">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1140" height="109" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594799682646" />
-    <state width="1140" height="109" key="GridCell.Tab.0.center" timestamp="1594799682646">
+    <state width="1140" height="292" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594800182226" />
+    <state width="1140" height="292" key="GridCell.Tab.0.center" timestamp="1594800182226">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1140" height="109" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594799682646" />
-    <state width="1140" height="109" key="GridCell.Tab.0.left" timestamp="1594799682645">
+    <state width="1140" height="292" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594800182226" />
+    <state width="1140" height="292" key="GridCell.Tab.0.left" timestamp="1594800182226">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1140" height="109" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594799682645" />
-    <state width="1140" height="109" key="GridCell.Tab.0.right" timestamp="1594799682646">
+    <state width="1140" height="292" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594800182226" />
+    <state width="1140" height="292" key="GridCell.Tab.0.right" timestamp="1594800182226">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1140" height="109" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594799682646" />
+    <state width="1140" height="292" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594800182226" />
     <state width="413" height="334" key="GridCell.Tab.1.bottom" timestamp="1590489843426">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -149,14 +149,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1594793063388" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1594793053245">
+    <state x="184" y="0" key="SettingsEditor" timestamp="1594800278626">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594793053245" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1594800060338">
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594800278626" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1594800164759">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1594800060338" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1594800164759" />
     <state x="369" y="0" width="659" height="583" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1592381285894">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -165,6 +165,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="325" y="31" key="com.intellij.database.view.ui.DatabasePreviewDialog/0.0.1366.728@0.0.1366.728" timestamp="1591003926473" />
+    <state x="140" y="68" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1594800290316">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="140" y="68" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1366.728@0.0.1366.728" timestamp="1594800290316" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1594799605159">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
